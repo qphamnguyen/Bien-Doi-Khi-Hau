@@ -1,0 +1,17 @@
+#title {
+  background-color: #00a896;
+}
+
+.logo-image {
+  margin-left: .5rem;
+  margin-right: .5rem;
+  width: 5%;
+}
+
+body {
+  background-color: #fefae0;
+}
+
+.navbar-brand {
+  font-size: 30px;
+}
